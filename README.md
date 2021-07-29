@@ -9,32 +9,32 @@ Knowledge and Resource:
 
 Javascript:
 
-learning: https://www.bilibili.com/video/BV1Sy4y1C7ha and my PPT
-documents: https://blog.csdn.net/wuyxinu/article/details/103642800 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+learning: https://www.bilibili.com/video/BV1Sy4y1C7ha and my PPT .
+documents: https://blog.csdn.net/wuyxinu/article/details/103642800 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript .
 
 React:
 
-environment configuraion: https://www.cnblogs.com/yuesebote/p/10744916.html 
-antd components: https://ant.design/components/overview-cn/
-learning react: https://www.bilibili.com/video/BV14y4y1g7M4 and my PPT
-W3C: https://www.w3school.com.cn/
-official documents: https://react.docschina.org/
+environment configuraion: https://www.cnblogs.com/yuesebote/p/10744916.html .
+antd components: https://ant.design/components/overview-cn/ .
+learning react: https://www.bilibili.com/video/BV14y4y1g7M4 and my PPT .
+W3C: https://www.w3school.com.cn/ .
+official documents: https://react.docschina.org/ .
 
 flask:
 
-learning: https://www.bilibili.com/video/BV1v7411M7us?from=search&seid=11618671625048701964 and his other vedios, my collections of bilibili
-getting the form data: https://blog.csdn.net/qq_41703291/article/details/89441356
+learning: https://www.bilibili.com/video/BV1v7411M7us?from=search&seid=11618671625048701964 and his other vedios, my collections of bilibili .
+getting the form data: https://blog.csdn.net/qq_41703291/article/details/89441356 .
 
 mongoDb+flask:
 
-add, delete, modify and query: https://blog.csdn.net/qq_43594278/article/details/115555240 https://blog.csdn.net/qq_41076797/article/details/102314729
+add, delete, modify and query: https://blog.csdn.net/qq_43594278/article/details/115555240 https://blog.csdn.net/qq_41076797/article/details/102314729 .
 
 Postman:
 
-https://www.cnplugins.com/tool/specify-postman-methods.html
+https://www.cnplugins.com/tool/specify-postman-methods.html .
 
 github:
 
-update local codes: https://www.bilibili.com/video/BV195411t7tA?t=1283
+update local codes: https://www.bilibili.com/video/BV195411t7tA?t=1283 .
 
 Feelings: After the project, I experience the whole process of how data come from the web, then to back end and database, and to the front end at last which is the full process of a product.
