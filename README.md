@@ -9,7 +9,7 @@ Knowledge and Resource:
 
 Javascript:
 
-yarn: https://classic.yarnpkg.com/en/docs/cli/add
+yarn: https://blog.csdn.net/mjzhang1993/article/details/70092902  https://classic.yarnpkg.com/en/docs/cli/add
 learning: https://www.bilibili.com/video/BV1Sy4y1C7ha and my PPT .
 documents: https://blog.csdn.net/wuyxinu/article/details/103642800 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript .
 
